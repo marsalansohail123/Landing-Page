@@ -1,0 +1,19 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-heading {
+  font-size: 3rem;
+}
+
+.main-para {
+  font-size: 1.25rem;
+}
+
+.text-justify {
+  text-align: justify !important;
+}
+
+.testimonial {
+  height: 100vh;
+}
